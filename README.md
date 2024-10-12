@@ -4,7 +4,7 @@ It is a Java-based ORM framework. It can help developers to quickly complete the
 ## Why did you name it "SQL Messenger" ?
 It carries "your orders" like a messenger on the process.
 ## Characteristic?
-* Easy configurationing
+* Easy configuration
 * Convenient operation data
 * Clean, tidy code
 * Support for multiple data sources
@@ -13,4 +13,4 @@ It carries "your orders" like a messenger on the process.
 * Distributed transaction
 * Faster operating efficiency
 * Interceptor
-* Avoid diverse cache promblem
+* Avoid diverse cache problem
