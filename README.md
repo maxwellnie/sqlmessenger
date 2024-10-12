@@ -1,6 +1,8 @@
 # Introduction
 ## What is it?
 It is a Java-based ORM framework. It can help developers to quickly complete the development of the data access layer.
+## Why did you name it "SQL Messenger" ?
+It carries "your orders" like a messenger on the process.
 ## Characteristic?
 * Easy configurationing
 * Convenient operation data
